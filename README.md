@@ -106,7 +106,6 @@ Add CI/CD pipeline (GitHub Actions)
 Add request throttling & WAF
 
 👤 Author
-
-[Your Name]
+Vaishnavi Budala Shridhara
 Cloud / Backend Engineer
 🚀 AWS • Terraform • Serverless
